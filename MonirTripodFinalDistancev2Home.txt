@@ -1,0 +1,54 @@
+0	Shoulder DistanceX=  599.002397060394	RightShoulderX=  0.2011073	LeftShoulderX=  0.08407989	
+1	Shoulder DistanceX=  599.002397060394	RightShoulderX=  0.2011073	LeftShoulderX=  0.08407989	
+2	Shoulder DistanceX=  601.987427473068	RightShoulderX=  0.1985744	LeftShoulderX=  0.08481029	
+3	Shoulder DistanceX=  601.987427473068	RightShoulderX=  0.1985744	LeftShoulderX=  0.08481029	
+4	Shoulder DistanceX=  597.778612375259	RightShoulderX=  0.1919605	LeftShoulderX=  0.08614436	
+5	Shoulder DistanceX=  597.778612375259	RightShoulderX=  0.1919605	LeftShoulderX=  0.08614436	
+6	Shoulder DistanceX=  598.099458217621	RightShoulderX=  0.1863724	LeftShoulderX=  0.08542085	
+7	Shoulder DistanceX=  598.099458217621	RightShoulderX=  0.1863724	LeftShoulderX=  0.08542085	
+8	Shoulder DistanceX=  593.252921104431	RightShoulderX=  0.1785925	LeftShoulderX=  0.08458354	
+9	Shoulder DistanceX=  593.252921104431	RightShoulderX=  0.1785925	LeftShoulderX=  0.08458354
+front to back	
+0	Shoulder DistanceX=  623.317050933838	RightShoulderX=  0.1818395	LeftShoulderX=  0.09883656	
+1	Shoulder DistanceX=  623.317050933838	RightShoulderX=  0.1818395	LeftShoulderX=  0.09883656	
+2	Shoulder DistanceX=  623.003447055817	RightShoulderX=  0.1824783	LeftShoulderX=  0.09827897	
+3	Shoulder DistanceX=  623.003447055817	RightShoulderX=  0.1824783	LeftShoulderX=  0.09827897	
+4	Shoulder DistanceX=  623.517519235611	RightShoulderX=  0.1829784	LeftShoulderX=  0.09735606	
+5	Shoulder DistanceX=  623.517519235611	RightShoulderX=  0.1829784	LeftShoulderX=  0.09735606	
+6	Shoulder DistanceX=  624.610948562622	RightShoulderX=  0.1834161	LeftShoulderX=  0.09706481	
+7	Shoulder DistanceX=  624.610948562622	RightShoulderX=  0.1834161	LeftShoulderX=  0.09706481	
+8	Shoulder DistanceX=  625.239980220795	RightShoulderX=  0.1831329	LeftShoulderX=  0.0970722	
+9	Shoulder DistanceX=  625.239980220795	RightShoulderX=  0.1831329	LeftShoulderX=  0.0970722
+back to front	
+0	Shoulder DistanceX=  610.965424776077	RightShoulderX=  0.1853961	LeftShoulderX=  0.09047429	
+1	Shoulder DistanceX=  610.965424776077	RightShoulderX=  0.1853961	LeftShoulderX=  0.09047429	
+2	Shoulder DistanceX=  606.082677841187	RightShoulderX=  0.1769097	LeftShoulderX=  0.0906116	
+3	Shoulder DistanceX=  606.082677841187	RightShoulderX=  0.1769097	LeftShoulderX=  0.0906116	
+4	Shoulder DistanceX=  611.148136854172	RightShoulderX=  0.1753376	LeftShoulderX=  0.09167513	
+5	Shoulder DistanceX=  611.148136854172	RightShoulderX=  0.1753376	LeftShoulderX=  0.09167513	
+6	Shoulder DistanceX=  607.614648342133	RightShoulderX=  0.1684398	LeftShoulderX=  0.09279683	
+7	Shoulder DistanceX=  607.614648342133	RightShoulderX=  0.1684398	LeftShoulderX=  0.09279683	
+8	Shoulder DistanceX=  605.548167228699	RightShoulderX=  0.1637587	LeftShoulderX=  0.0928291	
+9	Shoulder DistanceX=  605.548167228699	RightShoulderX=  0.1637587	LeftShoulderX=  0.0928291
+front to back	
+0	Shoulder DistanceX=  621.28232717514	RightShoulderX=  0.1952172	LeftShoulderX=  0.1038406	
+1	Shoulder DistanceX=  621.28232717514	RightShoulderX=  0.1952172	LeftShoulderX=  0.1038406	
+2	Shoulder DistanceX=  625.65148472786	RightShoulderX=  0.1966259	LeftShoulderX=  0.1024819	
+3	Shoulder DistanceX=  625.65148472786	RightShoulderX=  0.1966259	LeftShoulderX=  0.1024819	
+4	Shoulder DistanceX=  625.586307048798	RightShoulderX=  0.1966218	LeftShoulderX=  0.1021289	
+5	Shoulder DistanceX=  625.586307048798	RightShoulderX=  0.1966218	LeftShoulderX=  0.1021289	
+6	Shoulder DistanceX=  626.513707637787	RightShoulderX=  0.1967024	LeftShoulderX=  0.1016596	
+7	Shoulder DistanceX=  626.513707637787	RightShoulderX=  0.1967024	LeftShoulderX=  0.1016596	
+8	Shoulder DistanceX=  625.923246145248	RightShoulderX=  0.1945201	LeftShoulderX=  0.1013444	
+9	Shoulder DistanceX=  625.923246145248	RightShoulderX=  0.1945201	LeftShoulderX=  0.1013444
+back to front	
+0	Shoulder DistanceX=  597.204780578613	RightShoulderX=  0.166679	LeftShoulderX=  0.08976677	
+1	Shoulder DistanceX=  597.204780578613	RightShoulderX=  0.166679	LeftShoulderX=  0.08976677	
+2	Shoulder DistanceX=  600.307559967041	RightShoulderX=  0.1722161	LeftShoulderX=  0.08947822	
+3	Shoulder DistanceX=  600.307559967041	RightShoulderX=  0.1722161	LeftShoulderX=  0.08947822	
+4	Shoulder DistanceX=  600.614351034164	RightShoulderX=  0.1784589	LeftShoulderX=  0.08885881	
+5	Shoulder DistanceX=  600.614351034164	RightShoulderX=  0.1784589	LeftShoulderX=  0.08885881	
+6	Shoulder DistanceX=  599.975073337555	RightShoulderX=  0.1819322	LeftShoulderX=  0.08871473	
+7	Shoulder DistanceX=  599.975073337555	RightShoulderX=  0.1819322	LeftShoulderX=  0.08871473	
+8	Shoulder DistanceX=  601.574045419693	RightShoulderX=  0.186122	LeftShoulderX=  0.08824932	
+9	Shoulder DistanceX=  601.574045419693	RightShoulderX=  0.186122	LeftShoulderX=  0.08824932	
